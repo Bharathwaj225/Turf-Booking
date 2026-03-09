@@ -56,7 +56,7 @@ turf-booking/
 
 ### Homepage
 
-<img src="screenshots/homepage.png" width="800">
+<img src="Turf/turf-booking/screenshots/homepage.png" width="800">
 
 ### Login Page
 
