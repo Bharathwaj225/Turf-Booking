@@ -52,21 +52,7 @@ turf-booking/
 
 ---
 
-## 📸 Screenshots
 
-### Homepage
-
-<img src="Turf/turf-booking/screenshots/homepage.png" width="800">
-
-### Login Page
-
-<img src="screenshots/login.png" width="800">
-
-### Register Page
-
-<img src="screenshots/register.png" width="800">
-
----
 
 ## ⚙️ Installation & Setup
 
