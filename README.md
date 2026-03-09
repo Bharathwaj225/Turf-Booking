@@ -108,7 +108,7 @@ cd turftime-turf-booking
 
 ## 👨‍💻 Author
 
-Developed by **[Bharathwaj K]**
+Developed by **Bharathwaj K**
 
 ---
 
